@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "description": "Prmeium",
+  "main": "start.js",
+  "bin": {
+    "nama-perintah": "./start.js"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "faker": "^5.5.3",
+    "fast-speedtest-api": "^0.3.2",
+    "javascript-obfuscator": "^4.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "puppeteer": "^21.5.2",
+    "readline-sync": "^1.4.10"
+  },
+  "author": "darren"
+  
+}
